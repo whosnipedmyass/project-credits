@@ -74,5 +74,5 @@ echo "Fetching sponsor details for $username..."
 sponsors=$(fetch_sponsor_details "$username" "null")
 
 echo "Saving sponsor details to sponsors.json..."
-echo "$sponsors" | jq -s '.' > Sponsors/credits.json
+echo "$sponsors" | jq -s '.' > sponsors/credits.json
 echo "Sponsor details saved to sponsors.json"
