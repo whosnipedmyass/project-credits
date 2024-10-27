@@ -48,7 +48,7 @@ fetch_sponsor_details() {
   end_cursor=$(echo "$response" | jq -r '.data.user.sponsors.pageInfo.endCursor')
 
   local new_sponsors
-  new_sponsors=$(echo "$response" | jq -c '.data.user.sponsors.nodes[] | select(.sponsorshipForViewerAsSponsorable.privacyLevel == "PUBLIC") | {login: .login, name: .name}')
+  new_sponsors=$(echo "$response" | jq -c '.data.user.sponsors.nodes[] | select(.sponsorshipForViewerAsSponsorable.privacyLevel == "PUBLIC") | {github: .login, name: .name}')
   sponsors+=($new_sponsors)
 
   if [[ "$has_next_page" == "true" && "$end_cursor" != "null" ]]; then
