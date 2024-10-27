@@ -1,0 +1,192 @@
+{
+    "sections": [
+        {
+            "name": "Current Developers",
+            "data": [
+                {
+                    "name": "Nick Chan",
+                    "github": "asdfugil"
+                },
+                {
+                    "name": "Samara",
+                    "github": "khcrysalis"
+                },
+                {
+                    "name": "mineek",
+                    "github": "mineek"
+                },
+                {
+                    "name": "HAHALOSAH",
+                    "github": "HAHALOSAH"
+                }
+            ]
+        },
+        {
+            "name": "Special Thanks To",
+            "data": [
+                {
+                    "name": "staturnz",
+                    "github": "staturnzz"
+                },
+                {
+                    "name": "kok3shidoll",
+                    "github": "kok3shidoll"
+                },
+                {
+                    "name": "Tom",
+                    "github": "plooshi"
+                },
+                {
+                    "name": "Nebula",
+                    "github": "itsnebulalol"
+                },
+                {
+                    "name": "Nathan",
+                    "github": "verygenericname"
+                },
+                {
+                    "name": "Lakhan Lothiyi",
+                    "github": "llsc12"
+                }
+            ]
+        },
+        {
+            "name": "Thank You",
+            "data": [
+                {
+                    "name": "checkra1n",
+                    "github": "checkra1n"
+                },
+                {
+                    "name": "libimobiledevice",
+                    "github": "libimobiledevice"
+                },
+                {
+                    "name": "Procursus",
+                    "github": "ProcursusTeam",
+                    "desc": "Bootstrap"
+                },
+                {
+                    "name": "Evelyn",
+                    "github": "evelyneee",
+                    "desc": "ElleKit"
+                },
+                {
+                    "name": "sbingner",
+                    "github": "sbingner",
+                    "desc": "Substitute"
+                },
+                {
+                    "name": "Amy While",
+                    "github": "elihwyma",
+                    "desc": "Sileo"
+                },
+                {
+                    "name": "Zebra Team",
+                    "github": "zbrateam",
+                    "desc": "Zebra"
+                },
+                {
+                    "name": "lrdsnow",
+                    "github": "Lrdsnow",
+                    "desc": "purepkg"
+                },
+                {
+                    "name": "opa334",
+                    "github": "opa334",
+                    "desc": "cfprefs hook"
+                },
+                {
+                    "name": "tihmstar",
+                    "github": "tihmstar",
+                    "desc": "jbinit v1"
+                },
+                {
+                    "name": "raspberry",
+                    "github": "raspberryenvoie",
+                    "desc": "Odysseyn1x"
+                },
+                {
+                    "name": "asineth0",
+                    "github": "asineth0",
+                    "desc": "Checkn1x"
+                },
+                {
+                    "name": "Alexia",
+                    "github": "0xallie",
+                    "desc": "Contributions"
+                }
+            ]
+        },
+        {
+            "name": "Translations (App)",
+            "data": [
+                {
+                    "name": "hg13",
+                    "github": "hg13bs",
+                    "desc": "Arabic"
+                },
+                {
+                    "name": "Stereo.Luigi",
+                    "github": "stereoDotLuigi",
+                    "desc": "Turkish"
+                },
+                {
+                    "name": "Genesis",
+                    "github": "0x6ff",
+                    "desc": "Polish"
+                },
+                {
+                    "name": "a slow audi r8",
+                    "github": "afastaudir8",
+                    "desc": "French"
+                },
+                {
+                    "name": "Lost",
+                    "github": "lostfnm",
+                    "desc": "German"
+                },
+                {
+                    "name": "xanti",
+                    "github": "xantiago0",
+                    "desc": "Spanish & German"
+                },
+                {
+                    "name": "Arex",
+                    "github": "TheArexH4CKER",
+                    "desc": "Hungarian"
+                },
+                {
+                    "name": "Ainara",
+                    "github": "ainaracatgirl",
+                    "desc": "Catalan"
+                },
+                {
+                    "name": "Saraaaa",
+                    "github": "Saraaa2103",
+                    "desc": "Vietnamese"
+                },
+                {
+                    "name": "Gamono",
+                    "github": "gamono23",
+                    "desc": "Russian"
+                },
+                {
+                    "name": "Mac",
+                    "github": "itsmaclol",
+                    "desc": "Albanian"
+                },
+                {
+                    "name": "thepyrite",
+                    "github": "thepyrite",
+                    "desc": "Persian"
+                },
+                {
+                    "name": "June",
+                    "github": "junepark678",
+                    "desc": "Korean"
+                }
+            ]
+        }
+    ]
+}

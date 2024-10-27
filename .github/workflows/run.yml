@@ -1,0 +1,27 @@
+name: run 
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */3 * *" # Every 3 days
+
+jobs:
+  build:
+    runs-on: macos-13
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch Sponsors
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          ./get-sponsors.sh
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actor
+          message: "chore: update"
+          add: |
+            Sponsors/credits.json
