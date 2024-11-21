@@ -9,7 +9,7 @@
   },
   {
     "github": "darwinx64",
-    "name": "darwinx64"
+    "name": null
   },
   {
     "github": "Silenze",
@@ -86,6 +86,10 @@
   {
     "github": "Win1876",
     "name": null
+  },
+  {
+    "github": "falchion10",
+    "name": "falchion"
   },
   {
     "github": "sebastionscroggins",
