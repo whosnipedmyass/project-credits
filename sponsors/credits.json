@@ -36,10 +36,6 @@
     "name": "Igor Marcossi"
   },
   {
-    "github": "DavidAGInnovation",
-    "name": "DavidAG"
-  },
-  {
     "github": "BoardTM",
     "name": "Board"
   },
@@ -133,6 +129,10 @@
   },
   {
     "github": "crisMz096",
+    "name": null
+  },
+  {
+    "github": "mneeckx",
     "name": null
   }
 ]
