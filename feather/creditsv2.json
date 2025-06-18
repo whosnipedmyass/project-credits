@@ -2,21 +2,21 @@
     {
         "name": "Samara",
         "github": "khcrysalis",
-        "desc": "Developer"
+        "desc": "Main Developer"
     },
     {
         "name": "HAHALOSAH",
         "github": "HAHALOSAH",
-        "desc": "AR Decompressor"
+        "desc": "AR Decompressor & Original Zsign bindings"
     },
     {
         "name": "Lakhan Lothiyi",
         "github": "llsc12",
-        "desc": "Help w/ repositories"
+        "desc": "Repositories"
     },
     {
         "name": "Jackson Coxson",
         "github": "jkcoxson",
-        "desc": "idevice"
+        "desc": "iDevice"
     }
 ]
