@@ -2,17 +2,22 @@
     {
         "name": "Samara",
         "github": "khcrysalis",
-        "desc": "Main Developer"
+        "desc": "Developer"
     },
     {
         "name": "HAHALOSAH",
         "github": "HAHALOSAH",
-        "desc": "AR Decompressor & Original Zsign bindings"
+        "desc": "Operations"
     },
     {
         "name": "Lakhan Lothiyi",
         "github": "llsc12",
         "desc": "Repositories"
+    },
+    {
+        "name": "Adrian Castro",
+        "github": "castdrian",
+        "desc": "Contributor"
     },
     {
         "name": "Jackson Coxson",
