@@ -5,14 +5,9 @@
         "desc": "Developer"
     },
     {
-        "name": "HAHALOSAH",
-        "github": "HAHALOSAH",
-        "desc": "Operations"
-    },
-    {
-        "name": "Lakhan Lothiyi",
-        "github": "llsc12",
-        "desc": "Repositories"
+        "name": "Nyasami",
+        "github": "Nyasami",
+        "desc": "Contributor"
     },
     {
         "name": "Adrian Castro",
@@ -20,8 +15,18 @@
         "desc": "Contributor"
     },
     {
+        "name": "Lakhan Lothiyi",
+        "github": "llsc12",
+        "desc": "Repositories"
+    },
+    {
+        "name": "HAHALOSAH",
+        "github": "HAHALOSAH",
+        "desc": "Operations"
+    },
+    {
         "name": "Jackson Coxson",
         "github": "jkcoxson",
-        "desc": "iDevice"
+        "desc": "Idevice"
     }
 ]
